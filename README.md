@@ -1,4 +1,5 @@
-Please find the pipeline organized into the following branches:<br>
+Please find the code and results organized into the following branches:<br>
+
 0_datascraping<br>
 1_dataset<br>
 2_EDA<br>
